@@ -1,6 +1,6 @@
 # StuInfoDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
+This is a small demo of using a service to make a sort of server for data
 
 ## Development server
 
