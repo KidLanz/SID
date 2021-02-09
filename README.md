@@ -1,6 +1,6 @@
 # StuInfoDemo
 
-This is a small demo of using a service to make a sort of server for data
+This is a small demo of using a service to make a sort of server for data. The instructions are under the DemoPresentation folder.
 
 ## Development server
 
